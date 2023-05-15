@@ -1,0 +1,14 @@
+@import './base.css';
+
+/* 
+font-family: 'Karla', sans-serif;
+font-family: 'Prompt', sans-serif; 
+*/
+
+/* HEADER */
+a,
+.green {
+  text-decoration: none;
+  color: whitesmoke;
+  transition: 0.4s;
+}
